@@ -1,11 +1,16 @@
 _repo: Recipes-Used-in-the-Cooking-Schools-U-S-Army_65250
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65250-h/images/cover.jpg
 creator:
   author:
     agent_name: Army, U. S.
     gutenberg_agent_id: '53253'
     url: http://www.gutenberg.org/2009/agents/53253
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65250#Recipes-Used-in-the-Cooking-Schools-U-S-Army
 gutenberg_issued: '2021-05-04'
 gutenberg_type: Text
 identifiers:
